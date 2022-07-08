@@ -1,0 +1,57 @@
+{
+	"info": {
+		"_postman_id": "1bac5d64-98d0-48a1-848b-81897c8e3828",
+		"name": "FastAPI CSV Process",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10109307"
+	},
+	"item": [
+		{
+			"name": "process_files",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get_processed_file",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/api/v1/get_processed_file/?task_id=11",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"get_processed_file",
+						""
+					],
+					"query": [
+						{
+							"key": "task_id",
+							"value": "11"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "check_process",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

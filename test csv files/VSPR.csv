@@ -1,0 +1,139 @@
+﻿GSTR-2 Section,GSTR-3B Section,Supplier Name,GSTIN of supplier,Place of Supply,Invoice number,Invoice type,Invoice date,Invoice value,Taxable value,Rate,Integrated tax,Central tax,State/UT tax,Cess,ITC Eligibility
+CDNR,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/CN/2021/01,CN,01-04-2020,"-82,600.00","-70,000.00",,,"-6,300.00","-6,300.00",,Input Services
+B2B,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,Dkd/d/2021/01,R,01-04-2020,"1,65,200.00","1,40,000.00",,,"12,600.00","12,600.00",,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,03-04-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I100493063,R,17-04-2020,"1,098.00",930,,,84,84,,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,29-04-2020,29.5,25,,,2.25,2.25,,Input Services
+CDNR,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/CN/2021/03,CN,01-05-2020,"-90,860.00","-77,000.00",,,"-6,930.00","-6,930.00",,Input Services
+B2B,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/D/2021/04,R,01-05-2020,"1,81,720.00","1,54,000.00",,,"13,860.00","13,860.00",,Input Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I101293701,R,15-05-2020,"12,861.00","8,438.00",,,506,506,,Input Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I101293701,R,15-05-2020,"12,861.00","2,891.00",,,260,260,,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,18-05-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),Bhumee Enterprises,07FLGPS9120B1Z4,07-Delhi,BE/15,R,27-05-2020,"2,460.00","2,084.76",,,187.62,187.62,,Input Goods
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,032/1/20-21,R,01-06-2020,"99,120.00","84,000.00",,,"7,560.00","7,560.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,032/2/20-21,R,01-06-2020,"94,494.00","80,080.00",,,"7,207.20","7,207.20",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,032/3/20-21,R,01-06-2020,"95,816.00","81,200.00",,,"7,308.00","7,308.00",,Input Goods/Services
+B2B,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/D/2021/07,R,01-06-2020,"1,81,720.00","1,54,000.00",,,"13,860.00","13,860.00",,Input Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,033/1/20-21,R,02-06-2020,"82,600.00","70,000.00",,,"6,300.00","6,300.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,033/2/20-21,R,02-06-2020,"93,173.00","78,960.00",,,"7,106.40","7,106.40",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,033/3/20-21,R,02-06-2020,"99,120.00","84,000.00",,,"7,560.00","7,560.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,034/1/20-21,R,03-06-2020,"95,816.00","81,200.00",,,"7,308.00","7,308.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,034/2/20-21,R,03-06-2020,"91,851.00","77,840.00",,,"7,005.60","7,005.60",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,034/3/20-21,R,03-06-2020,"66,080.00","56,000.00",,,"5,040.00","5,040.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,036/1/20-21,R,11-06-2020,"62,106.00","52,632.20",,,"4,736.90","4,736.90",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,036/2/20-21,R,11-06-2020,"91,851.00","77,840.00",,,"7,005.60","7,005.60",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,038/1/20-21,R,12-06-2020,"92,512.00","78,400.00",,,"7,056.00","7,056.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,038/2/20-21,R,12-06-2020,"72,688.00","61,600.00",,,"5,544.00","5,544.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,038/3/20-21,R,12-06-2020,"97,798.00","82,880.00",,,"7,459.20","7,459.20",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,040/1/20-21,R,13-06-2020,"89,208.00","75,600.00",,,"6,804.00","6,804.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,040/2/20-21,R,13-06-2020,"69,384.00","58,800.00",,,"5,292.00","5,292.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,040/3/20-21,R,13-06-2020,"64,098.00","54,320.00",,,"4,888.80","4,888.80",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,042/1/20-21,R,14-06-2020,"85,904.00","72,800.00",,,"6,552.00","6,552.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,042/2/20-21,R,14-06-2020,"71,366.00","60,480.00",,,"5,443.20","5,443.20",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,042/3/20-21,R,14-06-2020,"65,419.00","55,440.00",,,"4,989.60","4,989.60",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,049/1/20-21,R,15-06-2020,"79,296.00","67,200.00",,,"6,048.00","6,048.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,049/2/20-21,R,15-06-2020,"66,080.00","56,000.00",,,"5,040.00","5,040.00",,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,19-06-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),Bhumee Enterprises,07FLGPS9120B1Z4,07-Delhi,BE/38,R,23-06-2020,"3,280.00","2,779.68",,,250.16,250.16,,Input Goods
+B2B,4(A)(5),INDIAMART INTERMESH LTD.,09AAACI5853L2Z5,07-Delhi,1811822651,R,24-06-2020,"8,850.00","7,500.00",,"1,350.00",,,,Input Services
+B2B,4(A)(5),INDIAMART INTERMESH LTD.,09AAACI5853L2Z5,07-Delhi,1811822652,R,24-06-2020,"23,600.00","20,000.00",,"3,600.00",,,,Input Services
+B2B,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/D/2021/10,R,01-07-2020,"1,81,720.00","1,54,000.00",,,"13,860.00","13,860.00",,Input Services
+B2B,4(A)(5),Maa Kailadevi Stone Industries,23AATFM4310J1Z9,07-Delhi,158,R,04-07-2020,"1,76,033.00","1,67,650.00",,"8,382.50",,,,Input Goods/Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I103623342,R,10-08-2020,"1,440.00","1,220.00",,,110,110,,Input Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I103623790,R,10-07-2020,"1,440.00","1,220.00",,,110,110,,Input Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I103638659,R,10-07-2020,"1,440.00","1,220.00",,,110,110,,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,23-07-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/D/2021/13,R,01-08-2020,"1,81,720.00","1,54,000.00",,,"13,860.00","13,860.00",,Input Services
+B2B,4(A)(5),Vimal Exports Jalore,08APFPG3565G1ZX,07-Delhi,03/2020-21,R,21-08-2020,"59,844.00","50,715.00",,"9,128.70",,,,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,27-08-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),"Vimal Granites, New Delhi",07AMZPA3772A1Z2,07-Delhi,VG/90/2020-21,R,31-08-2020,"90,765.60","76,920.00",,,"6,922.80","6,922.80",,Input Goods/Services
+B2B,4(A)(5),"Vimal Granites, New Delhi",07AMZPA3772A1Z2,07-Delhi,VG/91/2020-21,R,31-08-2020,"79,465.92","67,344.00",,,"6,060.96","6,060.96",,Input Goods/Services
+B2B,4(A)(5),Dinesh Kumar Doshi,07AAAPJ1340C1ZJ,07-Delhi,DKD/D/2021/16,R,01-09-2020,"1,81,720.00","1,54,000.00",,,"13,860.00","13,860.00",,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,22-09-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),UNITED INDIA INSURANCE COMPANY LIMITED,07AAACU5552C1ZL,07-Delhi,3120I107434796,R,06-10-2020,"1,035.78",877.78,,,79,79,,Input Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,206/20-21,R,16-10-2020,"6,17,376.00","5,23,200.00",,,"47,088.00","47,088.00",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,207/20-21,R,16-10-2020,"6,07,181.00","5,14,560.00",,,"46,310.40","46,310.40",,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1,R,31-10-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),Luv Kush Marbles,07AUTPA4321P1ZA,07-Delhi,99,R,01-11-2020,"96,401.28","81,696.00",,,"7,352.64","7,352.64",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1333,R,01-11-2020,"99,794.00","84,571.54",,,"7,611.44","7,611.44",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1334,R,01-11-2020,"83,923.00","71,121.06",,,"6,400.90","6,400.90",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1338,R,01-11-2020,"98,456.00","83,437.06",,,"7,509.34","7,509.34",,Input Goods/Services
+B2B,4(A)(5),Luv Kush Marbles,07AUTPA4321P1ZA,07-Delhi,100,R,02-11-2020,"96,627.84","81,888.00",,,"7,369.92","7,369.92",,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,02-11-2020,295,250,,,22.5,22.5,,Input Services
+B2B,4(A)(5),Luv Kush Marbles,07AUTPA4321P1ZA,07-Delhi,101,R,03-11-2020,"96,542.88","81,816.00",,,"7,363.44","7,363.44",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1342,R,03-11-2020,"99,955.00","84,707.26",,,"7,623.65","7,623.65",,Input Goods/Services
+B2B,4(A)(5),Luv Kush Marbles,07AUTPA4321P1ZA,07-Delhi,102,R,04-11-2020,"96,797.76","82,032.00",,,"7,382.88","7,382.88",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1344,R,04-11-2020,"97,984.00","83,036.86",,,"7,473.32","7,473.32",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1345,R,04-11-2020,"2,44,159.00","2,06,914.42",,,"18,622.30","18,622.30",,Input Goods/Services
+B2B,4(A)(5),Luv Kush Marbles,07AUTPA4321P1ZA,07-Delhi,103,R,05-11-2020,"97,194.24","82,368.00",,,"7,413.12","7,413.12",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1350,R,05-11-2020,"97,731.00","82,822.84",,,"7,454.06","7,454.06",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1351,R,05-11-2020,"91,367.00","77,429.96",,,"6,968.70","6,968.70",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1352,R,05-11-2020,"98,520.00","83,491.58",,,"7,514.24","7,514.24",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1356,R,06-11-2020,"89,097.00","75,506.24",,,"6,795.56","6,795.56",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1357,R,06-11-2020,"4,78,270.00","4,05,313.28",,,"36,478.20","36,478.20",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1365,R,08-11-2020,"87,804.00","74,410.06",,,"6,696.91","6,696.91",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1372,R,10-11-2020,"80,071.00","67,856.44",,,"6,107.08","6,107.08",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1376,R,12-11-2020,"67,738.00","57,405.24",,,"5,166.47","5,166.47",,Input Goods/Services
+B2B,4(A)(5),Rajdhani Marbles,07AAGPB3243A1ZJ,07-Delhi,828,R,26-11-2020,"6,40,740.00","5,43,000.00",,,"48,870.00","48,870.00",,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,26-11-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),Rajdhani Marbles,07AAGPB3243A1ZJ,07-Delhi,829,R,27-11-2020,"8,26,520.00","7,00,440.00",,,"63,039.60","63,039.60",,Input Goods/Services
+B2B,4(A)(5),JAI BALAJI MARBLES,07AHLPC6870C1ZG,07-Delhi,117,R,03-12-2020,"3,54,000.00","3,00,000.00",,,"27,000.00","27,000.00",,Input Goods/Services
+B2B,4(A)(5),JAI BALAJI MARBLES,07AHLPC6870C1ZG,07-Delhi,118,R,03-12-2020,"3,46,000.00","2,93,220.00",,,"26,389.80","26,389.80",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1413,R,04-12-2020,"5,00,000.00","4,23,728.82",,,"38,135.59","38,135.59",,Input Goods/Services
+B2B,4(A)(5),"Shubh Marble, Udaipur",08AJSPR5401K1ZP,07-Delhi,26,R,16-12-2020,"83,780.00","71,000.28",,"12,780.05",,,,Input Goods/Services
+B2B,4(A)(5),JAI BALAJI MARBLES,07AHLPC6870C1ZG,07-Delhi,122,R,18-12-2020,"2,61,562.00","2,21,664.00",,,"19,949.00","19,949.00",,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,22-12-2020,"53,100.00","45,000.00",,,"4,050.00","4,050.00",,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,22-12-2020,"3,540.00","3,000.00",,,270,270,,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,30-12-2020,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),Kotak Mahindra Bank Current A/c,07AAACK4409J1ZM,07-Delhi,KB00000388469098,R,05-01-2021,590,500,,,45,45,,Input Services
+B2B,4(A)(5),Vinayaka Granite & Marbles,29BDQPB8108L1Z3,07-Delhi,190,R,01-02-2021,"3,25,680.00","2,76,000.00",,"49,680.00",,,,Input Goods/Services
+B2B,4(A)(5),Bhumee Enterprises,07FLGPS9120B1Z4,07-Delhi,BE/427,R,02-02-2021,"1,219.99","1,033.89",,,93.05,93.05,,Input Goods
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,113,R,16-02-2021,"77,497.64","65,676.00",,,"5,910.84","5,910.84",,Input Goods/Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,18-02-2021,413,350,,,31.5,31.5,,Input Services
+B2B,4(A)(5),ICICI Current A/c 000205,07AAACI1195H1ZO,07-Delhi,1.38E+14,R,19-02-2021,118,100,,,9,9,,Input Services
+B2B,4(A)(5),SAI RAM INDUSTRIES,37BGNPG8914P1ZK,07-Delhi,36,R,20-02-2021,"2,00,541.00","1,69,950.00",,"30,591.00",,,,Input Goods/Services
+B2B,4(A)(5),SRI LAKSHMI SRINIVASA GRANITES,37FPKPS2788B1ZD,07-Delhi,50,R,20-02-2021,"78,078.00","66,168.00",,"11,910.24",,,,Input Goods/Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,119,R,20-02-2021,"86,763.00","73,528.00",,,"6,617.52","6,617.52",,Input Goods/Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,123,R,24-02-2021,"83,204.00","70,512.00",,,"6,346.08","6,346.08",,Input Goods/Services
+B2B,4(A)(5),Kotak Mahindra Bank Current A/c,07AAACK4409J1ZM,07-Delhi,KB00000406519221,R,24-02-2021,29.5,25,,,2.25,2.25,,Input Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,125,R,27-02-2021,"88,297.00","74,828.00",,,"6,734.52","6,734.52",,Input Goods/Services
+B2B,4(A)(5),"Anjaniputhra Granites & Export, Kankari",37ABGFM7530E1ZA,07-Delhi,42,R,09-03-2021,"1,10,330.00","93,500.00",,"16,830.00",,,,Input Goods/Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,128,R,09-03-2021,"88,465.00","74,970.00",,,"6,747.30","6,747.30",,Input Goods/Services
+B2B,4(A)(5),SAI RAM INDUSTRIES,37BGNPG8914P1ZK,07-Delhi,INV38,R,09-03-2021,"1,45,966.00","1,23,700.00",,"22,266.00",,,,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1011,R,12-03-2021,"82,600.00","70,000.00",,,"6,300.00","6,300.00",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1015,R,12-03-2021,"49,560.00","42,000.00",,,"3,780.00","3,780.00",,Input Goods/Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,130,R,13-03-2021,"84,954.00","71,995.00",,,"6,479.55","6,479.55",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1013,R,14-03-2021,"50,386.00","42,700.00",,,"3,843.00","3,843.00",,Input Goods/Services
+B2B,4(A)(5),Jindal Tiles Private Limited,08AAACJ8323J1ZG,07-Delhi,105,R,16-03-2021,"12,12,115.00","10,27,215.60",,"1,84,898.81",,,,Input Goods/Services
+B2B,4(A)(5),PADMINI NATURAL STONES PVT LTD,08AAFCP3209E1ZP,07-Delhi,398,R,16-03-2021,"18,86,191.00","15,98,467.20",,"2,87,724.10",,,,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1014,R,16-03-2021,"52,451.00","44,450.00",,,"4,000.50","4,000.50",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1016,R,18-03-2021,"51,212.00","43,400.00",,,"3,906.00","3,906.00",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1017,R,19-03-2021,"52,038.00","44,100.00",,,"3,969.00","3,969.00",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1018,R,20-03-2021,"52,864.00","44,800.00",,,"4,032.00","4,032.00",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1019,R,21-03-2021,"52,864.00","44,800.00",,,"4,032.00","4,032.00",,Input Goods/Services
+B2B,4(A)(5),"Vimal Granites, New Delhi",07AMZPA3772A1Z2,07-Delhi,VG/285/2020-21,R,21-03-2021,"1,80,891.00","1,53,297.36",,,"13,796.76","13,796.76",,Input Goods/Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,133,R,23-03-2021,"89,769.00","76,075.00",,,"6,846.75","6,846.75",,Input Goods/Services
+B2B,4(A)(5),Harshit Trading CO.,07ALTPM1040J1ZY,07-Delhi,1020,R,23-03-2021,"68,381.00","57,950.00",,,"5,215.50","5,215.50",,Input Goods/Services
+B2B,4(A)(5),Hindustan Marbles,06AFUPS3214B1ZJ,07-Delhi,182,R,25-03-2021,"1,53,459.00","1,30,050.00",,"23,409.00",,,,Input Goods/Services
+B2B,4(A)(5),Quality Granite And Tile,07APDPG3025M1Z1,07-Delhi,239,R,26-03-2021,"99,764.00","84,546.00",,,"7,609.14","7,609.14",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1697,R,26-03-2021,"93,520.00","79,254.00",,,"7,132.86","7,132.86",,Input Goods/Services
+B2B,4(A)(5),Hindustan Marbles,06AFUPS3214B1ZJ,07-Delhi,185,R,27-03-2021,"1,56,314.00","1,32,469.20",,"23,844.46",,,,Input Goods/Services
+B2B,4(A)(5),Quality Granite And Tile,07APDPG3025M1Z1,07-Delhi,242,R,27-03-2021,"99,915.00","84,674.00",,,"7,620.66","7,620.66",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1712,R,27-03-2021,"93,520.00","79,254.00",,,"7,132.86","7,132.86",,Input Goods/Services
+B2B,4(A)(5),B.K. Marbles & Tiles,07ALPPG7506B1ZA,07-Delhi,135,R,28-03-2021,"80,441.00","68,170.00",,,"6,135.30","6,135.30",,Input Goods/Services
+B2B,4(A)(5),Quality Granite And Tile,07APDPG3025M1Z1,07-Delhi,245,R,28-03-2021,"99,858.00","84,625.00",,,"7,616.25","7,616.25",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1714,R,28-03-2021,"93,520.00","79,254.00",,,"7,132.86","7,132.86",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,483/20-21,R,29-03-2021,"83,792.00","71,010.00",,,"6,390.90","6,390.90",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,487/20-21,R,29-03-2021,"96,205.00","81,530.00",,,"7,337.70","7,337.70",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,491/20-21,R,29-03-2021,"99,309.00","84,160.00",,,"7,574.40","7,574.40",,Input Goods/Services
+B2B,4(A)(5),Gayatri Granites,07AETPG4267J1Z0,07-Delhi,1715,R,30-03-2021,"49,440.00","41,898.00",,,"3,770.82","3,770.82",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,500/20-21,R,30-03-2021,"97,757.00","82,845.00",,,"7,456.05","7,456.05",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,502/20-21,R,30-03-2021,"94,654.00","80,215.00",,,"7,219.35","7,219.35",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,505/20-21,R,30-03-2021,"92,481.00","78,374.00",,,"7,053.66","7,053.66",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,508/20-21,R,30-03-2021,"93,412.00","79,163.00",,,"7,124.67","7,124.67",,Input Goods/Services
+B2B,4(A)(5),Quality Granite And Tile,07APDPG3025M1Z1,07-Delhi,252,R,31-03-2021,"99,455.00","84,284.00",,,"7,585.56","7,585.56",,Input Goods/Services
+B2B,4(A)(5),Quality Granite And Tile,07APDPG3025M1Z1,07-Delhi,253,R,31-03-2021,"11,008.00","9,328.82",,,839.59,839.59,,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,510/20-21,R,31-03-2021,"92,792.00","78,637.00",,,"7,077.33","7,077.33",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,513/20-21,R,31-03-2021,"89,378.00","75,744.00",,,"6,816.96","6,816.96",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,515/20-21,R,31-03-2021,"89,688.00","76,007.00",,,"6,840.63","6,840.63",,Input Goods/Services
+B2B,4(A)(5),Singhal Builders,07CFYPS1052K1ZS,07-Delhi,518/20-21,R,31-03-2021,"70,532.00","59,772.88",,,"5,379.56","5,379.56",,Input Goods/Services
